@@ -1,138 +1,143 @@
 <div align="center">
 
-<!-- Animated waving header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8e4dc,50:f0ece4,100:e8e4dc&height=200&section=header&text=Hey,%20I'm%20Shridhar%20🚀&fontColor=1a1a2e&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Creative%20Engineer%20·%20Builder&descAlignY=58&descColor=3b6cb5" />
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B6CB5&center=true&vCenter=true&width=550&lines=React+%7C+Next.js+%7C+Three.js+%7C+Node.js+%F0%9F%9A%80;PHP+%7C+Python+%7C+PostgreSQL+%7C+Docker+%F0%9F%90%8D;Freelancer+%7C+Open+Source+Enthusiast+%E2%9C%A8;Building+things+that+survive+real+users+%F0%9F%8C%8C" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=SHRIDHAR&fontColor=ffffff&fontSize=52&fontAlignY=38&fontFamily=monospace&desc=FULL%20STACK%20DEVELOPER%20·%20CREATIVE%20ENGINEER%20·%20BUILDER&descAlignY=60&descColor=999999&descSize=13" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shridhuu&color=3b6cb5&style=flat-square&label=👁️+VISITORS)
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=c3d9f3&center=true&vCenter=true&width=560&lines=React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript;Node.js+%7C+Nest.js+%7C+PHP+%7C+Python+%7C+Go;PostgreSQL+%7C+MongoDB+%7C+Redis+%7C+MySQL;Technical+SEO+%7C+Figma+%7C+Lighthouse;The+best+code+is+the+code+that+ships." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shridhuu&color=999999&style=flat-square&label=VISITORS)
 
 <p>
-  <a href="https://shridhuu.site"><img src="https://img.shields.io/badge/Portfolio-shridhuu.site-f0ece4?style=for-the-badge&logo=googlechrome&logoColor=3b6cb5" alt="Portfolio" /></a>&nbsp;
-  <a href="https://linkedin.com/in/shridhar-sahu-074ab73bb"><img src="https://img.shields.io/badge/LinkedIn-Shridhar-f0ece4?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:shridhuu166@gmail.com"><img src="https://img.shields.io/badge/Email-shridhuu166@gmail.com-f0ece4?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>&nbsp;
-  <a href="https://t.me/kazumii"><img src="https://img.shields.io/badge/Telegram-kazumii-f0ece4?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
+  <a href="https://shridhuu.site"><img src="https://img.shields.io/badge/PORTFOLIO-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3&labelColor=000000" /></a>&nbsp;
+  <a href="mailto:shridhuu166@gmail.com"><img src="https://img.shields.io/badge/EMAIL-shridhuu166%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
+  <a href="https://t.me/kazumii"><img src="https://img.shields.io/badge/TELEGRAM-kazumii-000000?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=000000" /></a>
 </p>
 
 </div>
 
+<br/>
+
 ---
 
-## ✦ About Me
+&nbsp;&nbsp;&nbsp;&nbsp;**ABOUT**
 
 ```python
 class Shridhar:
     alias      = "Sid"
     role       = "Full Stack Developer"
     location   = "Earth 🌍 (for now)"
-    languages  = ["JavaScript", "TypeScript", "PHP", "Python"]
-    frontend   = ["React", "Next.js", "Three.js", "GSAP", "CSS/SASS"]
-    backend    = ["Node.js", "PHP 8", "Python"]
-    databases  = ["PostgreSQL", "MongoDB", "SQLite"]
-    devops     = ["Docker", "Git", "Linux"]
-    currently  = "Building in public & shipping side projects"
+    languages  = ["JavaScript", "TypeScript", "PHP", "Python", "Go"]
+    frontend   = ["React", "Next.js", "Tailwind CSS", "Redux", "HTML5", "CSS3"]
+    backend    = ["Node.js", "Express", "Nest.js", "Fastify", "PHP", "Python"]
+    databases  = ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Redis"]
+    design     = ["Figma", "Canva", "Photopea"]
+    seo        = ["GSC", "GA", "Lighthouse", "Technical SEO", "Schema"]
     motto      = "The best code is the code that ships."
 ```
 
-- 🔭 Currently building in public and shipping side projects
-- 🤖 Exploring how AI tooling changes the way developers work
-- 🎯 I believe the best code is polished enough to be proud of, pragmatic enough to actually exist
-- ☕ Powered by caffeine and unreasonable attention to detail
+&nbsp;&nbsp;&nbsp;&nbsp;🔭 &nbsp;Building in public and shipping side projects<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🤖 &nbsp;Exploring how AI tooling changes the way developers work<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🎯 &nbsp;Polished enough to be proud of — pragmatic enough to actually exist<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;☕ &nbsp;Powered by caffeine and unreasonable attention to detail
 
 ---
 
-## ✦ Tech Stack
-
 <div align="center">
 
-**Frontend**
+&nbsp;
 
-![React](https://img.shields.io/badge/React-f0ece4?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-f0ece4?style=for-the-badge&logo=next.js&logoColor=1a1a2e)
-![Three.js](https://img.shields.io/badge/Three.js-f0ece4?style=for-the-badge&logo=three.js&logoColor=1a1a2e)
-![TypeScript](https://img.shields.io/badge/TypeScript-f0ece4?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-f0ece4?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-f0ece4?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-f0ece4?style=for-the-badge&logo=css3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/SASS-f0ece4?style=for-the-badge&logo=sass&logoColor=CC6699)
+**FRONTEND**
 
-**Backend & Databases**
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/REDUX-000000?style=for-the-badge&logo=redux&logoColor=ffffff)
 
-![Node.js](https://img.shields.io/badge/Node.js-f0ece4?style=for-the-badge&logo=node.js&logoColor=339933)
-![PHP](https://img.shields.io/badge/PHP-f0ece4?style=for-the-badge&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-f0ece4?style=for-the-badge&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f0ece4?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-f0ece4?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![SQLite](https://img.shields.io/badge/SQLite-f0ece4?style=for-the-badge&logo=sqlite&logoColor=003B57)
+&nbsp;
 
-**Tools & Platforms**
+**BACKEND**
 
-![Docker](https://img.shields.io/badge/Docker-f0ece4?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-f0ece4?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-f0ece4?style=for-the-badge&logo=github&logoColor=1a1a2e)
-![VS Code](https://img.shields.io/badge/VS%20Code-f0ece4?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-f0ece4?style=for-the-badge&logo=linux&logoColor=1a1a2e)
+![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=ffffff)
+![NestJS](https://img.shields.io/badge/NEST.JS-000000?style=for-the-badge&logo=nestjs&logoColor=ffffff)
+![Fastify](https://img.shields.io/badge/FASTIFY-000000?style=for-the-badge&logo=fastify&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ffffff)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=ffffff)
+![Go](https://img.shields.io/badge/GO-000000?style=for-the-badge&logo=go&logoColor=ffffff)
+
+&nbsp;
+
+**DATABASES**
+
+![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![SQLite](https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=ffffff)
+
+&nbsp;
+
+**DESIGN & SEO**
+
+![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=ffffff)
+![Canva](https://img.shields.io/badge/CANVA-000000?style=for-the-badge&logo=canva&logoColor=ffffff)
+![Google Search Console](https://img.shields.io/badge/GSC-000000?style=for-the-badge&logo=googlesearchconsole&logoColor=ffffff)
+![Google Analytics](https://img.shields.io/badge/GA-000000?style=for-the-badge&logo=googleanalytics&logoColor=ffffff)
+![Lighthouse](https://img.shields.io/badge/LIGHTHOUSE-000000?style=for-the-badge&logo=lighthouse&logoColor=ffffff)
 
 </div>
 
 ---
 
-## ✦ What I'm Working On
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Portfolio](https://github.com/shridhuu/portfolio)** | Liquid Glass portfolio with Three.js cosmic background | HTML · CSS · JS · Three.js · GSAP · PHP · SQLite |
-| *More coming soon* | Building in public — stay tuned | — |
-
----
-
-## ✦ GitHub Stats
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shridhuu&show_icons=true&hide_border=true&bg_color=f0ece4&title_color=1a1a2e&text_color=3d3d56&icon_color=3b6cb5&ring_color=3b6cb5&rank_icon=github" />
+&nbsp;
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shridhuu&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=c3d9f3&ring_color=ffffff&rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhuu&layout=compact&hide_border=true&bg_color=f0ece4&title_color=1a1a2e&text_color=3d3d56" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhuu&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999" />
 
-<br/>
+&nbsp;
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shridhuu&hide_border=true&background=f0ece4&stroke=3b6cb5&ring=3b6cb5&fire=e85d4a&currStreakLabel=1a1a2e&sideLabels=1a1a2e&currStreakNum=3b6cb5&sideNums=3b6cb5&dates=3d3d56" />
-
-</div>
-
----
-
-## ✦ Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shridhuu&bg_color=f0ece4&color=1a1a2e&line=3b6cb5&point=7c5cbf&area=true&area_color=3b6cb5&hide_border=true" />
-</div>
-
----
-
-## ✦ Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-shridhuu-f0ece4?style=for-the-badge&logo=github&logoColor=1a1a2e)](https://github.com/shridhuu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-shridhuu.site-f0ece4?style=for-the-badge&logo=googlechrome&logoColor=3b6cb5)](https://shridhuu.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shridhar-f0ece4?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/shridhar-sahu-074ab73bb)
-[![Telegram](https://img.shields.io/badge/Telegram-kazumii-f0ece4?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/kazumii)
-
-*✦ Open to freelance work & collaborations ✦*
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shridhuu&hide_border=true&background=000000&stroke=262626&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&currStreakNum=ffffff&sideNums=cccccc&dates=666666" />
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8e4dc,50:f0ece4,100:e8e4dc&height=100&section=footer" />
 
-*"Not all those who wander are lost — some are just debugging."* 🌌
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shridhuu&bg_color=000000&color=999999&line=ffffff&point=c3d9f3&area=true&area_color=262626&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+&nbsp;
+
+[![GitHub](https://img.shields.io/badge/GITHUB-shridhuu-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/shridhuu)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3)](https://shridhuu.site)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-kazumii-000000?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/kazumii)
+
+&nbsp;
+
+*✦ &nbsp;Open to freelance work & collaborations &nbsp;✦*
+
+&nbsp;
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=100&section=footer" />
+
+`"Not all those who wander are lost — some are just debugging."`
 
 </div>
