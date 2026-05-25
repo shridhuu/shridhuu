@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:000000&amp;height=200&amp;section=header&amp;text=SHRIDHAR&amp;fontColor=ffffff&amp;fontSize=56&amp;fontAlignY=38&amp;desc=FOUNDER%20%26%20OWNER%20OF%20PIXEL%20SITE%20%C2%B7%20WEB%20DEVELOPER%20%C2%B7%20UI%2FUX%20DESIGNER%20%C2%B7%20SEO%20SPECIALIST&amp;descAlignY=58&amp;descColor=999999&amp;descSize=12" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:000000&amp;height=200&amp;section=header&amp;text=SHRIDHAR&amp;fontColor=ffffff&amp;fontSize=56&amp;fontAlignY=38&amp;desc=FOUNDER+%26+OWNER+OF+PIXEL+SITE+%7C+WEB+DEVELOPER+%7C+UI%2FUX+DESIGNER+%7C+SEO+SPECIALIST&amp;descAlignY=58&amp;descColor=999999&amp;descSize=12" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=13&amp;duration=3500&amp;pause=1200&amp;color=c3d9f3&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Design.+Build.+Fix.+Rank.;Full+Stack+%7C+UI%2FUX+Design+%7C+SEO;React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+Go;The+best+code+is+the+code+that+ships." alt="Typing SVG" />
 
