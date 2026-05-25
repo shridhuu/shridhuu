@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=SHRIDHAR&fontColor=ffffff&fontSize=56&fontAlignY=36&fontFamily=monospace&desc=FOUNDER+%26+OWNER+OF+PIXEL+SITE&descAlignY=58&descColor=999999&descSize=13" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:000000&amp;height=220&amp;section=header&amp;text=SHRIDHAR&amp;fontColor=ffffff&amp;fontSize=56&amp;fontAlignY=36&amp;fontFamily=monospace&amp;desc=FOUNDER+%26+OWNER+OF+PIXEL+SITE&amp;descAlignY=58&amp;descColor=999999&amp;descSize=13" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=c3d9f3&center=true&vCenter=true&width=580&lines=Design.+Build.+Fix.+Rank.;Full+Stack+%7C+UI%2FUX+Design+%7C+SEO;React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+Go;The+best+code+is+the+code+that+ships." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=13&amp;duration=3500&amp;pause=1200&amp;color=c3d9f3&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Design.+Build.+Fix.+Rank.;Full+Stack+%7C+UI%2FUX+Design+%7C+SEO;React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+Go;The+best+code+is+the+code+that+ships." alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shridhuu&color=999999&style=flat-square&label=VISITORS)
 
 <p>
-  <a href="https://shridhuu.me"><img src="https://img.shields.io/badge/PORTFOLIO-shridhuu.me-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3&labelColor=000000" /></a>&nbsp;
-  <a href="https://pixelsite.me"><img src="https://img.shields.io/badge/PIXEL%20SITE-pixelsite.me-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
-  <a href="https://github.com/shridhuu"><img src="https://img.shields.io/badge/GITHUB-shridhuu-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
-  <a href="https://wa.me/918530563370"><img src="https://img.shields.io/badge/WHATSAPP-918530563370-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
-  <a href="mailto:shridhuu166@gmail.com"><img src="https://img.shields.io/badge/EMAIL-shridhuu166%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
-  <a href="https://t.me/kazumii"><img src="https://img.shields.io/badge/TELEGRAM-kazumii-000000?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=000000" /></a>
+  <a href="https://shridhuu.site"><img src="https://img.shields.io/badge/PORTFOLIO-shridhuu.site-000000?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=c3d9f3&amp;labelColor=000000" /></a>&nbsp;
+  <a href="https://pixelsite.me"><img src="https://img.shields.io/badge/PIXEL%20SITE-pixelsite.me-000000?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=ffffff&amp;labelColor=000000" /></a>&nbsp;
+  <a href="https://github.com/shridhuu"><img src="https://img.shields.io/badge/GITHUB-shridhuu-000000?style=for-the-badge&amp;logo=github&amp;logoColor=ffffff&amp;labelColor=000000" /></a>&nbsp;
+  <a href="https://wa.me/918530563370"><img src="https://img.shields.io/badge/WHATSAPP-918530563370-000000?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=ffffff&amp;labelColor=000000" /></a>&nbsp;
+  <a href="mailto:shridhuu166@gmail.com"><img src="https://img.shields.io/badge/EMAIL-shridhuu166%40gmail.com-000000?style=for-the-badge&amp;logo=gmail&amp;logoColor=ffffff&amp;labelColor=000000" /></a>&nbsp;
+  <a href="https://t.me/kazumii"><img src="https://img.shields.io/badge/TELEGRAM-kazumii-000000?style=for-the-badge&amp;logo=telegram&amp;logoColor=ffffff&amp;labelColor=000000" /></a>
 </p>
 
 </div>
@@ -122,13 +122,13 @@ class Shridhar:
 
 &nbsp;
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=shridhuu&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999&icon_color=c3d9f3&ring_color=ffffff&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=shridhuu&amp;show_icons=true&amp;hide_border=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=999999&amp;icon_color=c3d9f3&amp;ring_color=ffffff&amp;rank_icon=github" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhuu&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhuu&amp;layout=compact&amp;hide_border=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=999999" />
 
 &nbsp;
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shridhuu&hide_border=true&background=000000&stroke=262626&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=999999&currStreakNum=ffffff&sideNums=cccccc&dates=666666" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shridhuu&amp;hide_border=true&amp;background=000000&amp;stroke=262626&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakLabel=ffffff&amp;sideLabels=999999&amp;currStreakNum=ffffff&amp;sideNums=cccccc&amp;dates=666666" />
 
 </div>
 
@@ -136,7 +136,7 @@ class Shridhar:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shridhuu&bg_color=000000&color=999999&line=ffffff&point=c3d9f3&area=true&area_color=262626&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shridhuu&amp;bg_color=000000&amp;color=999999&amp;line=ffffff&amp;point=c3d9f3&amp;area=true&amp;area_color=262626&amp;hide_border=true" />
 
 </div>
 
@@ -146,7 +146,7 @@ class Shridhar:
 
 &nbsp;
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3)](https://shridhuu.me)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3)](https://shridhuu.site)
 [![Pixel Site](https://img.shields.io/badge/PIXEL%20SITE-pixelsite.me-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://pixelsite.me)
 [![GitHub](https://img.shields.io/badge/GITHUB-shridhuu-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/shridhuu)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-918530563370-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/918530563370)
@@ -158,7 +158,7 @@ class Shridhar:
 
 &nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:000000&amp;height=100&amp;section=footer" />
 
 `"Not all those who wander are lost — some are just debugging."`
 
