@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:000000&amp;height=220&amp;section=header&amp;text=SHRIDHAR&amp;fontColor=ffffff&amp;fontSize=56&amp;fontAlignY=36&amp;fontFamily=monospace&amp;desc=FOUNDER+%26+OWNER+OF+PIXEL+SITE&amp;descAlignY=58&amp;descColor=999999&amp;descSize=13" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:000000&amp;height=200&amp;section=header&amp;text=SHRIDHAR&amp;fontColor=ffffff&amp;fontSize=56&amp;fontAlignY=38&amp;desc=FOUNDER%20%26%20OWNER%20OF%20PIXEL%20SITE%20%C2%B7%20WEB%20DEVELOPER%20%C2%B7%20UI%2FUX%20DESIGNER%20%C2%B7%20SEO%20SPECIALIST&amp;descAlignY=58&amp;descColor=999999&amp;descSize=12" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=13&amp;duration=3500&amp;pause=1200&amp;color=c3d9f3&amp;center=true&amp;vCenter=true&amp;width=580&amp;lines=Design.+Build.+Fix.+Rank.;Full+Stack+%7C+UI%2FUX+Design+%7C+SEO;React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+Go;The+best+code+is+the+code+that+ships." alt="Typing SVG" />
 
@@ -43,11 +43,7 @@ class Shridhar:
 
 ---
 
-<div align="center">
-
-&nbsp;
-
-**FRONTEND**
+&nbsp;&nbsp;&nbsp;&nbsp;**FRONTEND**
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
@@ -58,9 +54,7 @@ class Shridhar:
 ![Tailwind CSS](https://img.shields.io/badge/TAILWIND-000000?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 ![Redux](https://img.shields.io/badge/REDUX-000000?style=for-the-badge&logo=redux&logoColor=ffffff)
 
-&nbsp;
-
-**BACKEND**
+&nbsp;&nbsp;&nbsp;&nbsp;**BACKEND**
 
 ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=ffffff)
@@ -70,9 +64,7 @@ class Shridhar:
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/GO-000000?style=for-the-badge&logo=go&logoColor=ffffff)
 
-&nbsp;
-
-**DATABASES**
+&nbsp;&nbsp;&nbsp;&nbsp;**DATABASES**
 
 ![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff)
@@ -80,17 +72,13 @@ class Shridhar:
 ![SQLite](https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=ffffff)
 
-&nbsp;
-
-**DESIGN & SEO**
+&nbsp;&nbsp;&nbsp;&nbsp;**DESIGN & SEO**
 
 ![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=ffffff)
 ![Canva](https://img.shields.io/badge/CANVA-000000?style=for-the-badge&logo=canva&logoColor=ffffff)
-![Google Search Console](https://img.shields.io/badge/GSC-000000?style=for-the-badge&logo=googlesearchconsole&logoColor=ffffff)
-![Google Analytics](https://img.shields.io/badge/ANALYTICS-000000?style=for-the-badge&logo=googleanalytics&logoColor=ffffff)
+![GSC](https://img.shields.io/badge/GSC-000000?style=for-the-badge&logo=googlesearchconsole&logoColor=ffffff)
+![Analytics](https://img.shields.io/badge/ANALYTICS-000000?style=for-the-badge&logo=googleanalytics&logoColor=ffffff)
 ![Lighthouse](https://img.shields.io/badge/LIGHTHOUSE-000000?style=for-the-badge&logo=lighthouse&logoColor=ffffff)
-
-</div>
 
 ---
 
@@ -120,13 +108,9 @@ class Shridhar:
 
 <div align="center">
 
-&nbsp;
-
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=shridhuu&amp;show_icons=true&amp;hide_border=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=999999&amp;icon_color=c3d9f3&amp;ring_color=ffffff&amp;rank_icon=github" />
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shridhuu&amp;layout=compact&amp;hide_border=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=999999" />
-
-&nbsp;
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shridhuu&amp;hide_border=true&amp;background=000000&amp;stroke=262626&amp;ring=ffffff&amp;fire=ffffff&amp;currStreakLabel=ffffff&amp;sideLabels=999999&amp;currStreakNum=ffffff&amp;sideNums=cccccc&amp;dates=666666" />
 
@@ -144,19 +128,13 @@ class Shridhar:
 
 <div align="center">
 
-&nbsp;
-
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3)](https://shridhuu.site)
 [![Pixel Site](https://img.shields.io/badge/PIXEL%20SITE-pixelsite.me-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://pixelsite.me)
 [![GitHub](https://img.shields.io/badge/GITHUB-shridhuu-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/shridhuu)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-918530563370-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/918530563370)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-kazumii-000000?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/kazumii)
 
-&nbsp;
-
 *✦ &nbsp;Open to freelance work & collaborations — reach out anytime &nbsp;✦*
-
-&nbsp;
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:000000&amp;height=100&amp;section=footer" />
 
