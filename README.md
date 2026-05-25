@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=SHRIDHAR&fontColor=ffffff&fontSize=56&fontAlignY=36&fontFamily=monospace&desc=FOUNDER%20%26%20OWNER%20OF%20PIXEL%20SITE%20·%20WEB%20DEVELOPER%20·%20UI%2FUX%20DESIGNER%20·%20SEO%20SPECIALIST&descAlignY=58&descColor=999999&descSize=12" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=SHRIDHAR&fontColor=ffffff&fontSize=56&fontAlignY=36&fontFamily=monospace&desc=FOUNDER+%26+OWNER+OF+PIXEL+SITE&descAlignY=58&descColor=999999&descSize=13" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=c3d9f3&center=true&vCenter=true&width=580&lines=Design.+Build.+Fix.+Rank.;Full+Stack+%7C+UI%2FUX+Design+%7C+SEO;React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+Go;The+best+code+is+the+code+that+ships." alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shridhuu&color=999999&style=flat-square&label=VISITORS)
 
 <p>
-  <a href="https://shridhuu.site"><img src="https://img.shields.io/badge/PIXEL%20SITE-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3&labelColor=000000" /></a>&nbsp;
+  <a href="https://shridhuu.me"><img src="https://img.shields.io/badge/PORTFOLIO-shridhuu.me-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3&labelColor=000000" /></a>&nbsp;
+  <a href="https://pixelsite.me"><img src="https://img.shields.io/badge/PIXEL%20SITE-pixelsite.me-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
   <a href="https://github.com/shridhuu"><img src="https://img.shields.io/badge/GITHUB-shridhuu-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
   <a href="https://wa.me/918530563370"><img src="https://img.shields.io/badge/WHATSAPP-918530563370-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
   <a href="mailto:shridhuu166@gmail.com"><img src="https://img.shields.io/badge/EMAIL-shridhuu166%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
@@ -145,7 +146,8 @@ class Shridhar:
 
 &nbsp;
 
-[![Portfolio](https://img.shields.io/badge/PIXEL%20SITE-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3)](https://shridhuu.site)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3)](https://shridhuu.me)
+[![Pixel Site](https://img.shields.io/badge/PIXEL%20SITE-pixelsite.me-000000?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://pixelsite.me)
 [![GitHub](https://img.shields.io/badge/GITHUB-shridhuu-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/shridhuu)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-918530563370-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/918530563370)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-kazumii-000000?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/kazumii)
