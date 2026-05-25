@@ -2,13 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=SHRIDHAR&fontColor=ffffff&fontSize=52&fontAlignY=38&fontFamily=monospace&desc=FULL%20STACK%20DEVELOPER%20·%20CREATIVE%20ENGINEER%20·%20BUILDER&descAlignY=60&descColor=999999&descSize=13" />
 
-<br/>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=c3d9f3&center=true&vCenter=true&width=560&lines=React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript;Node.js+%7C+Nest.js+%7C+PHP+%7C+Python+%7C+Go;PostgreSQL+%7C+MongoDB+%7C+Redis+%7C+MySQL;Technical+SEO+%7C+Figma+%7C+Lighthouse;The+best+code+is+the+code+that+ships." alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=c3d9f3&center=true&vCenter=true&width=560&lines=React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript;Node.js+%7C+Nest.js+%7C+PHP+%7C+Python+%7C+Go;PostgreSQL+%7C+MongoDB+%7C+Redis+%7C+MySQL;Technical+SEO+%7C+Figma+%7C+Lighthouse;The+best+code+is+the+code+that+ships." alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shridhuu&color=999999&style=flat-square&label=VISITORS)
 
