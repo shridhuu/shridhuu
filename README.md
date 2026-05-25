@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=SHRIDHAR&fontColor=ffffff&fontSize=52&fontAlignY=38&fontFamily=monospace&desc=FULL%20STACK%20DEVELOPER%20·%20CREATIVE%20ENGINEER%20·%20BUILDER&descAlignY=60&descColor=999999&descSize=13" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=220&section=header&text=SHRIDHAR&fontColor=ffffff&fontSize=56&fontAlignY=36&fontFamily=monospace&desc=FOUNDER%20%26%20OWNER%20OF%20PIXEL%20SITE%20·%20WEB%20DEVELOPER%20·%20UI%2FUX%20DESIGNER%20·%20SEO%20SPECIALIST&descAlignY=58&descColor=999999&descSize=12" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=c3d9f3&center=true&vCenter=true&width=560&lines=React+%7C+Next.js+%7C+Tailwind+%7C+TypeScript;Node.js+%7C+Nest.js+%7C+PHP+%7C+Python+%7C+Go;PostgreSQL+%7C+MongoDB+%7C+Redis+%7C+MySQL;Technical+SEO+%7C+Figma+%7C+Lighthouse;The+best+code+is+the+code+that+ships." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=c3d9f3&center=true&vCenter=true&width=580&lines=Design.+Build.+Fix.+Rank.;Full+Stack+%7C+UI%2FUX+Design+%7C+SEO;React+%7C+Next.js+%7C+Node.js+%7C+PHP+%7C+Go;The+best+code+is+the+code+that+ships." alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shridhuu&color=999999&style=flat-square&label=VISITORS)
 
 <p>
-  <a href="https://shridhuu.site"><img src="https://img.shields.io/badge/PORTFOLIO-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3&labelColor=000000" /></a>&nbsp;
+  <a href="https://shridhuu.site"><img src="https://img.shields.io/badge/PIXEL%20SITE-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3&labelColor=000000" /></a>&nbsp;
+  <a href="https://github.com/shridhuu"><img src="https://img.shields.io/badge/GITHUB-shridhuu-000000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
+  <a href="https://wa.me/918530563370"><img src="https://img.shields.io/badge/WHATSAPP-918530563370-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
   <a href="mailto:shridhuu166@gmail.com"><img src="https://img.shields.io/badge/EMAIL-shridhuu166%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000" /></a>&nbsp;
   <a href="https://t.me/kazumii"><img src="https://img.shields.io/badge/TELEGRAM-kazumii-000000?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=000000" /></a>
 </p>
 
 </div>
-
-<br/>
 
 ---
 
@@ -23,21 +23,22 @@
 ```python
 class Shridhar:
     alias      = "Sid"
-    role       = "Full Stack Developer"
-    location   = "Earth 🌍 (for now)"
-    languages  = ["JavaScript", "TypeScript", "PHP", "Python", "Go"]
-    frontend   = ["React", "Next.js", "Tailwind CSS", "Redux", "HTML5", "CSS3"]
-    backend    = ["Node.js", "Express", "Nest.js", "Fastify", "PHP", "Python"]
-    databases  = ["PostgreSQL", "MongoDB", "MySQL", "SQLite", "Redis"]
-    design     = ["Figma", "Canva", "Photopea"]
-    seo        = ["GSC", "GA", "Lighthouse", "Technical SEO", "Schema"]
+    role       = "Web Developer · UI/UX Designer · SEO Specialist"
+    studio     = "Pixel Site — Founder & Owner"
+    location   = "Maharashtra, India"
+    frontend   = ["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS", "Redux"]
+    backend    = ["Node.js", "Express", "Nest.js", "Fastify", "PHP", "Python", "Go"]
+    databases  = ["MongoDB", "PostgreSQL", "MySQL", "SQLite", "Redis"]
+    design     = ["Figma", "Canva", "Photopea", "Stitch"]
+    seo        = ["GSC", "GA", "Lighthouse", "Screaming Frog", "Schema", "Technical SEO", "On-page SEO"]
+    building   = "Clean, responsive, SEO-friendly websites that look premium and work properly"
     motto      = "The best code is the code that ships."
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;🔭 &nbsp;Building in public and shipping side projects<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;🤖 &nbsp;Exploring how AI tooling changes the way developers work<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 &nbsp;Polished enough to be proud of — pragmatic enough to actually exist<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;☕ &nbsp;Powered by caffeine and unreasonable attention to detail
+&nbsp;&nbsp;&nbsp;&nbsp;🏢 &nbsp;Founder & Owner of **Pixel Site** — a web studio for premium digital builds<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;🎨 &nbsp;Design, build, fix, and optimize — from landing pages to full stack apps<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;📈 &nbsp;Technical + On-page SEO foundations built into every project by default<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;⚡ &nbsp;Lightweight architecture, fast load times, and unreasonable attention to detail
 
 ---
 
@@ -85,10 +86,34 @@ class Shridhar:
 ![Figma](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=ffffff)
 ![Canva](https://img.shields.io/badge/CANVA-000000?style=for-the-badge&logo=canva&logoColor=ffffff)
 ![Google Search Console](https://img.shields.io/badge/GSC-000000?style=for-the-badge&logo=googlesearchconsole&logoColor=ffffff)
-![Google Analytics](https://img.shields.io/badge/GA-000000?style=for-the-badge&logo=googleanalytics&logoColor=ffffff)
+![Google Analytics](https://img.shields.io/badge/ANALYTICS-000000?style=for-the-badge&logo=googleanalytics&logoColor=ffffff)
 ![Lighthouse](https://img.shields.io/badge/LIGHTHOUSE-000000?style=for-the-badge&logo=lighthouse&logoColor=ffffff)
 
 </div>
+
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;**SERVICES**
+
+| | Service | Description |
+|---|---|---|
+| `01` | **UI/UX DESIGN** | Bold visual systems and conversion-oriented interfaces |
+| `02` | **WEBSITE REDESIGN** | Modernize outdated sites without breaking business flow |
+| `03` | **SITE FIXING** | Resolve speed, responsiveness, and functional issues quickly |
+| `04` | **SEO OPTIMIZATION** | Technical + on-page SEO foundations for long-term ranking |
+| `05` | **FULL STACK APP** | Robust frontend and backend implementations for real products |
+| `06` | **API INTEGRATION** | Connect third-party systems, payments, dashboards, and automations |
+
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;**PROCESS**
+
+```
+01 · DIAGNOSE ————————— Current state, blockers, conversion and SEO gaps
+02 · DESIGN SYSTEM ———— Visual direction, hierarchy, and user flow clarity
+03 · BUILD ———————————— Reliable frontend + backend implementation with quality checks
+04 · OPTIMIZE ————————— Performance, metadata, and technical SEO delivery
+```
 
 ---
 
@@ -120,13 +145,14 @@ class Shridhar:
 
 &nbsp;
 
+[![Portfolio](https://img.shields.io/badge/PIXEL%20SITE-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3)](https://shridhuu.site)
 [![GitHub](https://img.shields.io/badge/GITHUB-shridhuu-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/shridhuu)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-shridhuu.site-000000?style=for-the-badge&logo=googlechrome&logoColor=c3d9f3)](https://shridhuu.site)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-918530563370-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff)](https://wa.me/918530563370)
 [![Telegram](https://img.shields.io/badge/TELEGRAM-kazumii-000000?style=for-the-badge&logo=telegram&logoColor=ffffff)](https://t.me/kazumii)
 
 &nbsp;
 
-*✦ &nbsp;Open to freelance work & collaborations &nbsp;✦*
+*✦ &nbsp;Open to freelance work & collaborations — reach out anytime &nbsp;✦*
 
 &nbsp;
 
